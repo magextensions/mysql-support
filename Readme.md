@@ -1,0 +1,1 @@
+Install: `composer require --dev magextensionsio/mysql-support`.

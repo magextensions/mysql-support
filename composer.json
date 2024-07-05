@@ -1,0 +1,13 @@
+{
+  "name": "magextensionsio/mysql-support",
+  "description": "Mysql 8.2 support.",
+  "type": "magento2-module",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Magextensionsio\\Magextensionsio_MysqlSupport\\": ""
+    }
+  }
+}
